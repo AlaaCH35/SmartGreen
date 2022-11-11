@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pass_reg" type="id"/>
+    <item name="emailSign_in" type="id"/>
+    <item name="passSign_in" type="id"/>
+    <item name="Sing_in_btn" type="id"/>
+    <item name="constraintLayout" type="id"/>
+    <item name="linearLayout" type="id"/>
+    <item name="email_edit" type="id"/>
+    <item name="btn1" type="id"/>
+    <item name="view1" type="id"/>
+    <item name="input" type="id"/>
+    <item name="view2" type="id"/>
+    <item name="hum" type="id"/>
+    <item name="input1" type="id"/>
+    <item name="view3" type="id"/>
+    <item name="input2" type="id"/>
+    <item name="view4" type="id"/>
+    <item name="input3" type="id"/>
+    <item name="signout_btn" type="id"/>
+    <item name="password_signout" type="id"/>
+</resources>

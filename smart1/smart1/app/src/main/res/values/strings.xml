@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name0">smart1</string>
+    <string name="app_name">smart greenhouse</string>
+    <string name="app_name1">temperature :</string>
+    <string name="app_name2">°C</string>
+    <string name="app_name3">Humidity:</string>
+    <string name="app_name4">%</string>
+    <string name="app_name5">Soil moisture</string>
+    <string name="app_name6">light intensity</string>
+    <string name="app_name7">A</string>
+    <string name="app_name8">register</string>
+    <string name="app_name9">login</string>
+</resources>
